@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Verilog and FPGAs<br> Interested in low level programming with C/C++<br>Open Source contributions are my forever goal.
+I'm currently working on Verilog and FPGAs<br> Interested in system level programming with C/C++<br>Open Source contributions are my forever goal.
 
 
 # 💻 Tech Stack:
