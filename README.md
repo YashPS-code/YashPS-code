@@ -1,6 +1,6 @@
 # Hi, I'm Yash 👋  
 🚀 Embedded Systems & FPGA Developer  
-🔧 Verilog | Digital Design | RTL | Hardware Acceleration  
+🔧 Verilog | Digital Design | RTL
 
 ## 🧠 Tech Stack
 
