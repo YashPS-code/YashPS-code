@@ -8,7 +8,7 @@
 - 🔌 Embedded: ESP32, Arduino
 - ⚙️ FPGA Tools: Quartus, ModelSim
 - 🧪 Concepts: DPLL, DSP, Digital Filters, FSM Design
-- 🛠️ Tools: Git, KiCad, PlatformIO, ROS2, Gazebo Sim
+- 🛠️ Tools: Git, KiCad, PlatformIO, CMake, Gazebo Sim
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=ffffff)
 
