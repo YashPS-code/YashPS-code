@@ -22,5 +22,5 @@
 
 ## 📈 Currently Working On
 
-- Advanced Verilog (Control Systems)
+- Control Systems
 - ROS2 controls
