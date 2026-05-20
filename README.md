@@ -23,6 +23,7 @@ architecture
 - Engineered multitasking firmware using FreeRTOS for concurrent communication, motor control, and sensor pro-
 cessing
 - Performed system-level testing, debugging, and optimization for reliable real-time robotic navigation
+
 📁 Repo: [Digital PLL](https://github.com/YashPS-code/omniDrive)
 
 ## 📈 Currently Working On
