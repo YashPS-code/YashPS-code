@@ -14,11 +14,16 @@
 
 ## 🔬 Featured Projects
 
-### 🔹 Digital PLL in Verilog
-- Implemented XOR-based phase detector + loop filter
-- Designed numerically controlled oscillator (NCO)
-- Verified using testbench and waveform analysis
-- 📁 Repo: [Digital PLL](https://github.com/YashPS-code/Digital-PLL.git)
+### 🔹 Omni Wheel Driving Autonomus Robot
+- Developing an omni-directional mobile robot capable of holonomic motion using ROS2-based control
+architecture
+- Implemented low-level motor control and sensor interfacing on ESP32 using ESP-IDF and FreeRTOS
+- Integrated Micro-ROS over ESP32 for real-time communication between embedded hardware and ROS2 ecosystem
+- Developed ROS2 control interfaces for velocity command execution, actuator coordination, and motion control
+- Engineered multitasking firmware using FreeRTOS for concurrent communication, motor control, and sensor pro-
+cessing
+- Performed system-level testing, debugging, and optimization for reliable real-time robotic navigation
+📁 Repo: [Digital PLL](https://github.com/YashPS-code/omniDrive)
 
 ## 📈 Currently Working On
 
